@@ -1,0 +1,21 @@
+.banner{
+	background: url(../img/bg.png);
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center;
+	
+}
+.banner h1 p{
+	color: white;
+}
+
+
+.design{
+	background: url(../img/3m-bg.png);
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center;
+}
+footer{
+	background-color: #002327;
+}
